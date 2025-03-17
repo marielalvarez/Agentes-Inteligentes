@@ -19,3 +19,7 @@ Implemented Agents
 - Bayesian Agent: Makes probabilistic decisions based on learned data about the environment.
 - Q-Learning Agent: Uses reinforcement learning to explore and optimize its movement over time
 
+<div align="center">
+<img src="walle-unity.png" width="30%">
+
+</div>

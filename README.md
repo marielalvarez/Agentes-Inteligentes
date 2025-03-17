@@ -1,6 +1,6 @@
 <div align="center">
 
-# Inteligent Agents
+# Intelligent Agents
 
 ##### Dexterous Manipulation using Processing IDE and Python. 
 
@@ -17,7 +17,7 @@ Implemented Agents
 - Reactive Agent: Moves randomly until encountering an obstacle, at which point it changes direction.
 - A* (A-star): Uses pathfinding to find the most efficient route to the goal, avoiding obstacles optimally.
 - Bayesian Agent: Makes probabilistic decisions based on learned data about the environment.
-- Q-Learning Agent: Uses reinforcement learning to explore and optimize its movement over time
+- Q-Learning Agent: Uses reinforcement learning to explore and optimize its movement over time.
 
 <div align="center">
 <img src="walle-unity.png" width="30%">

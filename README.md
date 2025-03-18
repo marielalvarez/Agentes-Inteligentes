@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Mesa](https://img.shields.io/badge/Mesa-333333?style=for-the-badge&logo=python&logoColor=white)
-
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
